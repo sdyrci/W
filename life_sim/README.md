@@ -11,7 +11,7 @@ Proje, Algoritma ve Programlama dersi ödevi kapsamında yalnızca C dilinin tem
 - [Komutlar](#komutlar)
 - [Oyun Kuralları](#oyun-kuralları)
 - [Kullanılan C Yapıları](#kullanılan-c-yapıları)
-- [Dosya Yapısı](#dosya-yapısı)
+
 
 ## Özellikler
 
@@ -119,14 +119,7 @@ Gün sayısı en büyük katkıyı yapar; böylece hayatta kalınan süre öncel
 | `&&`, `\|\|` | Keşif koşulları, durum raporu, şifre döngü koşulu |
 | `rand()` / `srand(time(NULL))` | Tüm rastgele olaylar |
 
-## Dosya Yapısı
 
-```
-.
-├── mars.c       # Kaynak kod
-└── README.md    # Proje açıklaması
-```
 
-## Lisans
 
-Bu proje eğitim amaçlı hazırlanmıştır.
+
