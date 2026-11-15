@@ -1,4 +1,4 @@
-# Mars Kolonisi Yaşam Destek Simülatörü
+# Yaşam Destek Simülatörü
 
 C diliyle yazılmış, metin tabanlı ve tek karakterli komutlarla kontrol edilen bir hayatta kalma oyunudur. Oyuncu, Mars'taki küçük bir araştırma istasyonunda tek başına kalan bir mühendisi yönetir ve kurtarma ekibi gelene kadar **15 gün** hayatta kalmaya çalışır.
 
